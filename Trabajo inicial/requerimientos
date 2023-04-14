@@ -1,0 +1,19 @@
+Sistema de Delivery
+	-Registro de Usuario
+	-Registro de Restaurants
+	-Servicio de soporte en caso de problema con el pedido
+	-Contacto directo con el delivery
+	-Apartado visual que muestre los restaurantes y permita elegir entre cualquiera
+	-Categorizacion de los restaurantes por distintos tipos de comida que estos ofrezcan y por cercania al usuario
+	-Opcion para ver la ubicacion del repartidor y el estado del pedido
+	-Envio de la factura de la compra a tu mail
+	-Generar un numero de pedido para el repartidor y para el restaurante
+	-Borrar la factura 24hs despues de hacer el pedido
+	
+CASO DE USO
+	Buscar Menu: el usuario busca en la aplicacion el     			resataurante y selecciona el menu que quiere pedir
+	Hacer pedido: el usuario confirma el pedido y lo paga
+	Recoger el pedido: le llega un mensaje al repartidor de donde hay que ir a buscar el pedido y el numero de este
+	Entregar el pedido: el repartidor entrega el pedido
+	Generar factura: una vez que el usuario hace el pedido se genera una factura y se la envia al mail del usuario
+	
